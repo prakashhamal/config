@@ -1,5 +1,5 @@
 ---
-username:kamal
+username: kamal
 spring:
   datasource:
     url: jdbc:mysql://47.254.91.56:3306/tenderdoko
