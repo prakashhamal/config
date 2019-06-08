@@ -1,0 +1,7 @@
+---
+username: kamal
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/tenderdoko
+    username: root
+    password: rgJdarh1
