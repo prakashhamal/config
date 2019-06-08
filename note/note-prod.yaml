@@ -5,3 +5,5 @@ spring:
     url: jdbc:mysql://localhost:3306/tenderdoko
     username: root
     password: rgJdarh1
+elasticsearch:
+  host: http://47.254.91.56:9200
