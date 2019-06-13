@@ -6,4 +6,4 @@ spring:
     username: root
     password: rgJdarh1
 elasticsearch:
-  host: http://47.254.91.56:9200
+  host: http://localhost:9200
