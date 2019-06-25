@@ -7,3 +7,8 @@ spring:
     password: rgJdarh1
 elasticsearch:
   host: http://localhost:9200
+oss:
+  bucketName: ami-files
+  endPoint: http://oss-us-west-1.aliyuncs.com
+  keyId: LTAIAOEId4GXucDf
+  keySecret: NTJcQ8KCFDhzRSmbyOVEg04EudCduB
