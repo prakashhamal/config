@@ -12,3 +12,6 @@ oss:
   endPoint: http://oss-us-west-1.aliyuncs.com
   keyId: LTAIAOEId4GXucDf
   keySecret: NTJcQ8KCFDhzRSmbyOVEg04EudCduB
+multipart:
+  max-file-size: 100MB
+  max-request-size: 100MB
