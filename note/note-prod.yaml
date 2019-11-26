@@ -5,6 +5,11 @@ spring:
     url: jdbc:mysql://localhost:3306/tenderdoko
     username: root
     password: rgJdarh1
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+
 elasticsearch:
   host: http://localhost:9200
 oss:
@@ -12,8 +17,4 @@ oss:
   endPoint: http://oss-us-west-1.aliyuncs.com
   keyId: LTAIAOEId4GXucDf
   keySecret: NTJcQ8KCFDhzRSmbyOVEg04EudCduB
-spring:
-  servlet:
-    multipart:
-      max-file-size: 100MB
-      max-request-size: 100MB
+
