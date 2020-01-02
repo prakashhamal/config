@@ -1,0 +1,14 @@
+---
+username: kamal
+spring:
+  datasource:
+    url: jdbc:mysql://47.254.91.56:3306/tenderdoko
+    username: root
+    password: rgJdarh1
+elasticsearch:
+  host: http://47.254.91.56:9200
+oss:
+  bucketName: ami-files
+  endPoint: http://oss-us-west-1.aliyuncs.com
+  keyId: LTAIAOEId4GXucDf
+  keySecret: NTJcQ8KCFDhzRSmbyOVEg04EudCduB
